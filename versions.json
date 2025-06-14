@@ -1,5 +1,20 @@
 {
-	"alpha": {
-		"0.2.0": "/versions/alpha/0.2.0.zip"
-	}
+	"alpha": [
+		{
+			"version": "0.2.0",
+			"path": "/versions/alpha/0.2.0.zip"
+		}
+	],
+	"beta": [
+		{
+			"version": "",
+			"path": ""
+		}
+	],
+	"release": [
+		{
+			"version": "",
+			"path": ""
+		}
+	],
 }
