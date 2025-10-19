@@ -1,20 +1,20 @@
 {
 	"alpha": [
 		{
+			"version": "0.0.1",
+			"path": "/versions/alpha/FlatCraft-Alpha-0.0.1-x86_64.zip"
+		}
+	],
+	"beta": [],
+	"release": [],
+	"other": [
+		{
+			"version": "0.1.3",
+			"path": "/versions/other/FlatMC-Alpha-0.1.3.zip"
+		},
+		{
 			"version": "0.2.0",
-			"path": "/versions/alpha/FlatMC_Alpha_v0.2.0_windows_x86-64.rar"
-		}
-	],
-	"beta": [
-		{
-			"version": "",
-			"path": ""
-		}
-	],
-	"release": [
-		{
-			"version": "",
-			"path": ""
+			"path": "/versions/other/FlatMC-Alpha-0.2.0.zip"
 		}
 	]
 }
