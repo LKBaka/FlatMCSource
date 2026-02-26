@@ -3,6 +3,10 @@
 		{
 			"version": "0.0.1",
 			"path": "/versions/alpha/FlatCraft-Alpha-0.0.1-x86_64.zip"
+		},
+		{
+			"version": "0.0.4",
+			"path": "/versions/alpha/FlatCraft-Alpha-0.0.4-x86_64.zip"
 		}
 	],
 	"beta": [],
